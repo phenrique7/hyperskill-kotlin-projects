@@ -5,3 +5,4 @@ That repo contains my Kotlin projects built on [Hyperskill](https://hyperskill.o
 ### Projects
 
 - **[My First Project with Kotlin](https://hyperskill.org/projects/501)**
+- **[Zookeeper (Kotlin)](https://hyperskill.org/projects/196)**
